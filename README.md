@@ -29,6 +29,12 @@ Each servo moves to 90°, then 40°, then 140°, creating a repeated movement pa
 
 ## 🎯 Result
 All four servo motors successfully move together according to the programmed angles.
+#tinkercad simulation :
+https://www.tinkercad.com/things/ePobqTvnJVe-fantastic-gogo-robo
+
+<img width="956" height="470" alt="Tinkercad-simulation" src="https://github.com/user-attachments/assets/bc58421f-5d63-46ab-9fe8-1daddee4f5ac" />
+
+
 
 ## 👩🏻‍💻 Author
 Almas Abdulaziz Alharthi
